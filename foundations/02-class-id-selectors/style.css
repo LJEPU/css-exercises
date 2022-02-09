@@ -1,0 +1,15 @@
+.odd {
+    background-color: #e92f5dd0; font-family: verdana, "dejavu sans", sans-serif;
+}
+
+.bod {
+    font-size: 24px;
+}
+
+#even {
+    color:blue; font-size: 36px;
+}
+
+#steven {
+    background-color: chartreuse; font-size: 24px; font-weight: bold;
+}
